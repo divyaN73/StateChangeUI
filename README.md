@@ -1,4 +1,4 @@
-# StateChangeContract
+# StateChangeUI
 Interact with Smart Contract to send a transaction to change the state of a variable on Ethereum Block chain.
 
 ### Pre-requisites :

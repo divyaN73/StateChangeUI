@@ -6,11 +6,11 @@ Interact with Blockchain to send a transaction to change the state of a variable
 2. Signup in Metamask and add some ether in your Ropsten Test Network because all the transactions fee will be deducted from you account..
 
 ## How to run the code.
-Open index.html in you browser. You will the current existing value of the variable.
+Open index.html in your browser. You can see the existing value like "last inserted value into the blockchain is :	Hello User"
 
-Now you have the text box to enter your value. Once you will enter the new value and click "Add to blockchain" it will open your metamask "confirmation" screen.
+Enter a new value in the given text box "Insert a new value" and click "Add to blockchain", it will open your metamask notification screen. Press "confirm" to move forward.
 
-After the confirmation the transaction will be sent to the blockchain and after few seconds , the new will be on screen.
+After the confirmation the transaction will be sent to the blockchain and after few seconds , the new will appear on the screen.
 
 ## How to see my transaction on exchange.
 Press F12, while doing the transaction. Here you can see a Transaction hash like

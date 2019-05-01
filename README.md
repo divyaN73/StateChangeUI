@@ -1,5 +1,5 @@
 # StateChangeContract
-Interact with Blockchain to send a transaction to change the state of a variable on Ethereum Block chain.
+Interact with Smart Contract to send a transaction to change the state of a variable on Ethereum Block chain.
 
 ### Pre-requisites :
 1. Install Metamask in your browser (Chrome : webstore , Mozilla: Add-ons). Code will show a message if its not installed.

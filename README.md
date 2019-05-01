@@ -1,2 +1,2 @@
 # StateChangeContract
-Smart contract to change the state of a variable using Solidity
+Interact with Blockchain to send a transaction to change the state of a variable on Ethereum Block chain.

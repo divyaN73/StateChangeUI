@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8"/>
+</head>
+<body>
+
+<script type="text/javascript" src="./resources/js/stateChange.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.34/dist/web3.min.js"></script>
+
+<div id="metamask"></div>
+<h3>Insert and retrieve value on the blockchain</h3>
+<br/>
+<table>
+    <tr>
+        <td><b>last inserted value into the blockchain is :</b></td>
+        <td>
+            <div id="xbalance"></div>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Insert a new value :</b></td>
+        <td>
+            <input id="xvalue" type="text"/>
+            <input id="Button1" type="button" onclick="setValue()" value="Add to Blockchain"/>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

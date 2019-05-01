@@ -1,0 +1,11 @@
+node_modules
+node
+*.sw?
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.log
+.DS_Store
